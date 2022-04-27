@@ -139,7 +139,7 @@
     <vers.crunch-cdh5>0.11.0-cdh${cdh5.version}</vers.crunch-cdh5>
     <vers.findbugs.jsr305>2.0.1</vers.findbugs.jsr305> <!-- don't update to 3.0.0 since that is JDK 1.7 or later -->
     <vers.flume>1.4.0</vers.flume>
-    <vers.guava>11.0.2</vers.guava>
+    <vers.guava>24.1.1-jre</vers.guava>
     <vers.hadoop1>1.2.1</vers.hadoop1>
     <vers.hadoop2>2.6.0</vers.hadoop2>
     <vers.hadoop-cdh4>2.0.0-cdh${cdh4.version}</vers.hadoop-cdh4>
